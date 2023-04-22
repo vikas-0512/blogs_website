@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `Blogs` MODIFY `body` LONGTEXT NOT NULL;
